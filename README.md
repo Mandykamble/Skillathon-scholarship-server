@@ -1,1 +1,1 @@
-# Skillathon-scholarship-server
+# aspire-scholership
